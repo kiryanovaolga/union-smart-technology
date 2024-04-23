@@ -7,6 +7,8 @@
 
 <img width="515" alt="image" src="https://github.com/kiryanovaolga/union-smart-technology/assets/122813147/61ae2a61-5df9-4141-ae7a-3cefe269e2a7">
 <img width="519" alt="image" src="https://github.com/kiryanovaolga/union-smart-technology/assets/122813147/1c546f05-f308-4bbb-b39f-e092190522dd">
+<img width="440" alt="image" src="https://github.com/kiryanovaolga/union-smart-technology/assets/122813147/f762f32e-f1ba-4706-8fa6-f0f96a3c2a42">
+
 
 
 
