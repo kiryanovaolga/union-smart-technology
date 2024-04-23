@@ -1,4 +1,4 @@
-# Union Smart-Technology(Studying Progect)
+# Union Smart Technology(Studying Progect)
 
 <img width="1267" alt="image" src="https://github.com/kiryanovaolga/union-smart-technology/assets/122813147/7b1d49a1-567e-461f-a7a6-cfd00aaba02f">
 <img width="1272" alt="image" src="https://github.com/kiryanovaolga/union-smart-technology/assets/122813147/f1b52798-0ed6-4d46-8fad-bdc05b8e5467">
